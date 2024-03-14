@@ -4,6 +4,33 @@
 저의 알고리즘 대회 출제 경험을 공유하고, 출제한 문제에 대한 풀이와 테스트 케이스를 제공합니다.
 ```
 
+## Zero One Alogrithm Contest 2023
+
+어느샌가 ZOAC의 출제위원을 또 다시 맡게 되었습니다.  
+shake! 운영할 때 배운 polygon과 latex 등을 써먹을 수 있어서 좋은 경험이었습니다.  
+대회 운영할 때 항상 도움받는 포지션이었는데, 이번엔 도움을 주는 포지션이 되어서 감회가 새로웠습니다.  
+
+대회에는 총 12개의 문제가 출제되었으며, 그 중 4개의 문제를 출제하였습니다.
+
+🔗 [함수 문자열](https://github.com/rasauq1122/ProblemAuthor/tree/master/%ED%95%A8%EC%88%98%20%EB%AC%B8%EC%9E%90%EC%97%B4)
+> 하나의 정수로 평가(evaluate)될 수 있는 함수 문자열은 다음과 같이 정의된다.
+
+<br>
+
+⛓ [함수 문자열이 너무 많아!!](https://github.com/rasauq1122/ProblemAuthor/tree/master/%ED%95%A8%EC%88%98%20%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%B4%20%EB%84%88%EB%AC%B4%20%EB%A7%8E%EC%95%84!!)
+> 구체적으로 얼마나 많은지 직접 구해보자.
+
+<br>
+
+📈 [일 왜 함?](https://github.com/rasauq1122/ProblemAuthor/tree/master/%EC%9D%BC%20%EC%99%9C%20%ED%95%A8)
+> 일하기는 싫고 한탕만 노리는 준성이는 가상화폐 $N$개의 종목의 시세를 분석하기 시작했다!
+
+<br>
+
+🧮 [C=A+B](https://github.com/rasauq1122/ProblemAuthor/tree/master/C%3DA%2BB)
+> 길이가 $N$(단, $N$은 $3$의 배수)인 수열 $X$가 있다.
+
+
 ## 2022 경인지역 6개 대학 연합 프로그래밍 경시대회 shake!
 
 2번의 대회에 출제위원으로 대회를 운영하면서, 출제자로써 더 큰 목표에 도전해보고 싶었습니다.  
