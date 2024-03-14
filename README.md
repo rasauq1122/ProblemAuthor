@@ -106,5 +106,5 @@ ZOAC 2019에서 우승하여 그에 대한 상품(?)으로 문제 출제권을 �
 
 <br>
 
-🚧 [구간 겹치기](https://github.com/rasauq1122/ProblemAuthor/tree/master/%E3%85%8B%E3%85%8B%EB%A3%A8%E3%85%8B%E3%85%8B)
+🚧 [구간 겹치기](https://github.com/rasauq1122/ProblemAuthor/tree/master/%EA%B5%AC%EA%B0%84%20%EA%B2%B9%EC%B9%98%EA%B8%B0)
 > *n*개의 구간이 주어진다. 하나의 구간은 두 정수 *s*, *e*로 표현되며, 이는 수직선 상에서 [*s*, *e*]를 모두 덮고 있다는 뜻이다.
