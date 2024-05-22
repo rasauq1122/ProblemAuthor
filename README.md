@@ -12,32 +12,32 @@ HEPC가 2019년 이후로 5년만에 다시 돌아왔습니다.
 
 대회에는 총 14개의 문제가 출제되었으며, 그 중 6개의 문제를 출제하였습니다.
 
-✌ 손가락 게임
+✌ [손가락 게임](https://github.com/rasauq1122/ProblemAuthor/tree/master/%EC%86%90%EA%B0%80%EB%9D%BD%20%EA%B2%8C%EC%9E%84)
 > 손가락 게임은 두 플레이어가 동시에 손가락을 일정 개수 펴서 특정 표식을 만들어 상성을 겨루는 게임이다.
 
 <br>
 
-🍉 수박 게임
+🍉 [수박 게임](https://github.com/rasauq1122/ProblemAuthor/tree/master/%EC%88%98%EB%B0%95%20%EA%B2%8C%EC%9E%84)
 > $1$단계 과일은 체리, $N$단계 과일은 수박이다.
 
 <br>
 
-🌟 별 수호자 룰루
+🌟 [별 수호자 룰루](https://github.com/rasauq1122/ProblemAuthor/tree/master/%EB%B3%84%20%EC%88%98%ED%98%B8%EC%9E%90%20%EB%A3%B0%EB%A3%A8)
 > 온 우주의 별을 수호하는 임무를 맡은 룰루는 자신의 일을 분담할 $N$명의 별 수호자를 선발했다.
 
 <br>
 
-🗺 땅땅바 나누기
+🗺 [땅땅바 나누기](https://github.com/rasauq1122/ProblemAuthor/tree/master/%EB%95%85%EB%95%85%EB%B0%94%20%EB%82%98%EB%88%84%EA%B8%B0)
 > 2명이서 쌍쌍바를 공평하게 나누는 법을 알고 있는가? 그 방법은 다음과 같다.
 
 <br>
 
-🆚 자존심 강한 두 천재의 대결
+🆚 [자존심 강한 두 천재의 대결](https://github.com/rasauq1122/ProblemAuthor/tree/master/%EC%9E%90%EC%A1%B4%EC%8B%AC%20%EA%B0%95%ED%95%9C%20%EB%91%90%20%EC%B2%9C%EC%9E%AC%EC%9D%98%20%EB%8C%80%EA%B2%B0)
 > 지금 한양대학교 ERICA캠퍼스는 에리-카드라는 게임이 선풍적인 유행을 끌고 있다!
 
 <br>
 
-🎄 트리 스도쿠
+🎄 [트리 스도쿠](https://github.com/rasauq1122/ProblemAuthor/tree/master/%ED%8A%B8%EB%A6%AC%20%EC%8A%A4%EB%8F%84%EC%BF%A0)
 > 평범한 방식의 스도쿠에 질린 룰루는 새로운 방식의 스도쿠를 제안했다.
 
 ## Zero One Alogrithm Contest 2023
